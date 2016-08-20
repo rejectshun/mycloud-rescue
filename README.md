@@ -1,9 +1,7 @@
 WD MyCloud Rescue
 =====================
 
-Console access via internal serial:
-
-![Image of serial port](serial.jpg)
+The following scripts allow you to build a kernel with rescue tools to restore / modify a WD MyCloud
 
 Trigger TFTP Boot
 -----------------
